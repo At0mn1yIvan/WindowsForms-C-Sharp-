@@ -1,0 +1,12 @@
+D:\Projects.C++\Учёт пользователей\Учёт пользователей\bin\Debug\Учёт пользователей.exe.config
+D:\Projects.C++\Учёт пользователей\Учёт пользователей\bin\Debug\Учёт пользователей.exe
+D:\Projects.C++\Учёт пользователей\Учёт пользователей\bin\Debug\Учёт пользователей.pdb
+D:\Projects.C++\Учёт пользователей\Учёт пользователей\obj\Debug\Учёт пользователей.csproj.AssemblyReference.cache
+D:\Projects.C++\Учёт пользователей\Учёт пользователей\obj\Debug\Учёт_пользователей.Properties.Resources.resources
+D:\Projects.C++\Учёт пользователей\Учёт пользователей\obj\Debug\Учёт пользователей.csproj.GenerateResource.cache
+D:\Projects.C++\Учёт пользователей\Учёт пользователей\obj\Debug\Учёт пользователей.csproj.CoreCompileInputs.cache
+D:\Projects.C++\Учёт пользователей\Учёт пользователей\obj\Debug\Учёт пользователей.exe
+D:\Projects.C++\Учёт пользователей\Учёт пользователей\obj\Debug\Учёт пользователей.pdb
+D:\Projects.C++\Учёт пользователей\Учёт пользователей\obj\Debug\Учёт_пользователей.Authorization.resources
+D:\Projects.C++\Учёт пользователей\Учёт пользователей\obj\Debug\Учёт_пользователей.Cr_New_User.resources
+D:\Projects.C++\Учёт пользователей\Учёт пользователей\obj\Debug\Учёт_пользователей.User_info.resources
